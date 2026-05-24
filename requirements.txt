@@ -1,0 +1,21 @@
+# Core dependencies
+anarcii>=2.0.0
+immunebuilder>=1.1.0
+protinter>=1.0.0
+biopython>=1.80
+prody>=2.0
+numpy>=1.24
+pandas>=2.0
+torch>=2.0
+
+# BLAST+
+# Install via conda: conda install -c bioconda blast
+# Or system package manager
+
+# Data management
+gdown>=4.7
+rclone-python>=0.1.0
+
+# Testing
+pytest>=7.0
+pytest-cov>=4.0

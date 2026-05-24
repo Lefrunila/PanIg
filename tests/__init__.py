@@ -1,0 +1,1 @@
+"""PanIg test suite."""
